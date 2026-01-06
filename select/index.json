@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Rich (feat. YZERR)",
+  "base_artist": "Hideyoshi",
+  "createdAt": "2026-01-06T13:49:15.736360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly Rich (Feat. Stevie J, Future, Tyga, Meek Mill, Mystikal)",
+      "artist": "Rich Gang",
+      "has_synced": true,
+      "path": "select/01_Fly_Rich_(Feat._Stevie_J,_Future,_Tyga,_Meek_Mill,_Mystikal)_Rich_Gang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghetto Rich (feat. John Legend)",
+      "artist": "Rich Boy",
+      "has_synced": true,
+      "path": "select/02_Ghetto_Rich_(feat._John_Legend)_Rich_Boy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Real Rich (feat. Gucci Mane)",
+      "artist": "Wiz Khalifa feat. Gucci Mane",
+      "has_synced": true,
+      "path": "select/03_Real_Rich_(feat._Gucci_Mane)_Wiz_Khalifa_feat._Gucci_Mane.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Real Rich (feat. Gucci Mane)",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/04_Real_Rich_(feat._Gucci_Mane)_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'm Not Rich (feat. Shaggy) [Hitimpulse Remix]",
+      "artist": "The King's Son",
+      "has_synced": true,
+      "path": "select/05_I'm_Not_Rich_(feat._Shaggy)_[Hitimpulse_Remix]_The_King's_Son.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chipmunk Rich (feat. Jessica DiCicco & Open Mike Eagle)",
+      "artist": "Adventure Time feat. Jessica DiCicco & Open Mike Eagle",
+      "has_synced": false,
+      "path": "select/06_Chipmunk_Rich_(feat._Jessica_DiCicco_&_Open_Mike_Eagle)_Adventure_Time_feat._Jessica_DiCicco_&_Open_Mike_Eagle.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until We Rich - Feat. Krayzie Bone",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/07_Until_We_Rich_-_Feat._Krayzie_Bone_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Until We Rich (feat. Krayzie Bone)",
+      "artist": "Ice Cube",
+      "has_synced": true,
+      "path": "select/08_Until_We_Rich_(feat._Krayzie_Bone)_Ice_Cube.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stinking Rich (feat. Dave & J Hus)",
+      "artist": "MoStack feat. J Hus & Dave",
+      "has_synced": true,
+      "path": "select/09_Stinking_Rich_(feat._Dave_&_J_Hus)_MoStack_feat._J_Hus_&_Dave.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stinking Rich (feat. Dave & J Hus)",
+      "artist": "MoStack, J Hus, Dave",
+      "has_synced": true,
+      "path": "select/10_Stinking_Rich_(feat._Dave_&_J_Hus)_MoStack,_J_Hus,_Dave.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Filthy Rich (feat. Spencer Pollard)",
+      "artist": "Can't Swim feat. Spencer Pollard",
+      "has_synced": true,
+      "path": "select/11_Filthy_Rich_(feat._Spencer_Pollard)_Can't_Swim_feat._Spencer_Pollard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Finally Getting Rich (feat. Joe Moses)",
+      "artist": "Mustard feat. RJMrLA & Joe Moses",
+      "has_synced": false,
+      "path": "select/12_Finally_Getting_Rich_(feat._Joe_Moses)_Mustard_feat._RJMrLA_&_Joe_Moses.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Finally Getting Rich (feat. Joe Moses)",
+      "artist": "DJ Mustard & RJmrLA",
+      "has_synced": false,
+      "path": "select/13_Finally_Getting_Rich_(feat._Joe_Moses)_DJ_Mustard_&_RJmrLA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Rich (feat. AzChike)",
+      "artist": "Bravo the Bagchaser feat. AzChike",
+      "has_synced": true,
+      "path": "select/14_Get_Rich_(feat._AzChike)_Bravo_the_Bagchaser_feat._AzChike.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When I Get Rich (feat. Travis Barker)",
+      "artist": "Jelly Roll feat. Travis Barker",
+      "has_synced": false,
+      "path": "select/15_When_I_Get_Rich_(feat._Travis_Barker)_Jelly_Roll_feat._Travis_Barker.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "When I Get Rich (feat. Travis Barker)",
+      "artist": "Jelly Roll",
+      "has_synced": false,
+      "path": "select/16_When_I_Get_Rich_(feat._Travis_Barker)_Jelly_Roll.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Real Rich (Feat. Gucci Mane)",
+      "artist": "Wiz Khalifa",
+      "has_synced": true,
+      "path": "select/17_Real_Rich_(Feat._Gucci_Mane)_Wiz_Khalifa.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kill The Rich feat Bobby Raps",
+      "artist": "Terror Reid",
+      "has_synced": true,
+      "path": "select/18_Kill_The_Rich_feat_Bobby_Raps_Terror_Reid.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "RICH (Feat. TAEYANG 태양)",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/19_RICH_(Feat._TAEYANG_태양)_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Rich (feat. TAEYANG)",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/20_Rich_(feat._TAEYANG)_Epik_High.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rich (feat. YZERR)",
+      "artist": "Hideyoshi",
+      "has_synced": false,
+      "path": "select/pl_01_Rich_(feat._YZERR)_Hideyoshi.txt"
+    }
+  ]
+}
